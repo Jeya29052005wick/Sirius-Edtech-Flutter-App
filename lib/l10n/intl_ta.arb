@@ -1,0 +1,11 @@
+{
+  "@@locale": "ta",
+  "settings": "அமைப்புகள்",
+  "changePassword": "கடவுச்சொல்லை மாற்று",
+  "blockedAccounts": "தடையிடப்பட்ட கணக்குகள்",
+  "language": "மொழி",
+  "termsOfUse": "பயன்பாட்டு விதிகள்",
+  "privacyPolicy": "தனியுரிமைக் கொள்கை",
+  "deleteAccount": "கணக்கை நீக்கு",
+  "version": "பதிப்பு {version}"
+}

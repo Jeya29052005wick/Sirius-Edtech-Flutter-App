@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "settingsTitle": "Paramètres",
+  "changePassword": "Changer le mot de passe",
+  "blockedAccounts": "Comptes bloqués",
+  "language": "Langue",
+  "termsOfUse": "Conditions d'utilisation",
+  "privacyPolicy": "Politique de confidentialité",
+  "deleteAccount": "Supprimer le compte",
+  "version": "Version"
+}

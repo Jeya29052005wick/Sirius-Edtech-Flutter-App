@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "settings": "Settings",
+  "changePassword": "Change Password",
+  "blockedAccounts": "Blocked accounts",
+  "language": "Language",
+  "termsOfUse": "Terms of use",
+  "privacyPolicy": "Privacy Policy",
+  "deleteAccount": "Delete Account",
+  "version": "Version {version}"
+}

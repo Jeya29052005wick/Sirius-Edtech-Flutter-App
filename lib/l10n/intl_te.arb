@@ -1,0 +1,11 @@
+{
+  "@@locale": "te",
+  "settingsTitle": "సెట్టింగ్‌లు",
+  "changePassword": "పాస్‌వర్డ్ మార్చు",
+  "blockedAccounts": "బ్లాక్ చేయబడిన ఖాతాలు",
+  "language": "భాష",
+  "termsOfUse": "వినియోగ నిబంధనలు",
+  "privacyPolicy": "గోప్యతా విధానం",
+  "deleteAccount": "ఖాతాను తొలగించండి",
+  "version": "వెర్షన్"
+}

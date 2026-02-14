@@ -1,0 +1,10 @@
+{
+  "@@locale": "ml",
+  "settings": "ക്രമീകരണം",
+  "changePassword": "പാസ്വേഡു മാറ്റുക",
+  "blockedAccounts": "തടസ്സപ്പെടുത്തിയ അക്കൗണ്ടുകൾ",
+  "language": "ഭാഷ",
+  "termsOfUse": "ഉപയോഗനിബന്ധങ്ങൾ",
+  "privacyPolicy": "സ്വകാര്യതാനയം",
+  "deleteAccount": "അക്കൗണ്ട് ഇല്ലാതാക്കുക"
+}

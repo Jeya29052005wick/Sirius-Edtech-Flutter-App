@@ -1,0 +1,11 @@
+{
+  "@@locale": "hi",
+  "settingsTitle": "सेटिंग्स",
+  "changePassword": "पासवर्ड बदलें",
+  "blockedAccounts": "ब्लॉक किए गए खाते",
+  "language": "भाषा",
+  "termsOfUse": "उपयोग की शर्तें",
+  "privacyPolicy": "गोपनीयता नीति",
+  "deleteAccount": "खाता हटाएं",
+  "version": "संस्करण"
+}

@@ -1,0 +1,16 @@
+# Flutter / Dart
+build/
+.dart_tool/
+.packages
+.pub-cache/
+
+# IDE files
+.idea/
+*.iml
+
+# Generated files
+ios/Pods/
+android/.gradle/
+
+# Misc
+*.log

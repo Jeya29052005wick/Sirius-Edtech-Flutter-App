@@ -1,0 +1,10 @@
+{
+  "@@locale": "kn",
+  "settings": "ಸೆಟ್ಟಿಂಗ್ಸ್",
+  "changePassword": "ಪಾಸ್ವರ್ಡ್ ಬದಲಿಸಿ",
+  "blockedAccounts": "ತಡೆಗಟ್ಟಿದ ಖಾತೆಗಳು",
+  "language": "ಭಾಷೆ",
+  "termsOfUse": "ಬಳಕೆಯ ನಿಯಮಗಳು",
+  "privacyPolicy": "ಗೌಪ್ಯತಾ ನೀತಿ",
+  "deleteAccount": "ಖಾತೆ ಅಳಿಸಿ"
+}
