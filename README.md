@@ -1,99 +1,95 @@
-# Sirius 🎓
+# 🎓 AI Integrated EdTech App (Flutter)
 
-**Stop Learning. Start Understanding.**
+A modern **AI-powered EdTech mobile application** built using Flutter that enables students to learn through structured courses, manage their learning, and get instant help using AI.
 
-Sirius is a modern Flutter-based learning platform that provides:
-- 🎥 Online math courses
-- 📚 Course library management
-- 🔐 Firebase Authentication
-- 🌍 Multi-language support
-- 🤖 Sirius AI (Demo Mode in public version)
-- 💳 Razorpay payment integration (private backend)
+***
 
----
+## 📱 Overview
+
+This application provides a complete learning platform where users can:
+
+- Explore and enroll in courses  
+- Manage their personal learning library  
+- Get AI-based assistance for doubts  
+- Receive real-time notifications  
+- Access content in multiple languages  
+
+***
 
 ## 🚀 Features
 
-### 🔐 Authentication
-- Email & Password login
-- Google Sign-In
-- Password reset
-- Firebase Authentication integration
+- 🎥 Video-based course learning  
+- 📚 Course library management  
+- 🔐 Firebase Authentication (Email & Google Sign-In)  
+- 💳 Razorpay payment integration (for paid courses)  
+- 🤖 AI assistant (Math, Programming, Aptitude)  
+- 🔔 Real-time notifications using Firebase Cloud Messaging  
+- 🌍 Multi-language support  
+- 📊 Purchase history tracking  
+- 🕘 Recently viewed courses  
 
-### 📚 Courses
-- Browse all courses
-- Free & Paid course support
-- Razorpay payment integration
-- Purchase history
-- Recently viewed courses
-- Library management
+***
 
-### 🤖 Sirius AI
-- Chat-style interface
-- Markdown + LaTeX rendering
-- Multiple modes (Math, Programming, Aptitude)
-- Demo mode in public repository
+## 🧠 How It Works
 
-### 🔔 Notifications
-- Firebase Cloud Messaging (FCM)
-- User-specific notifications (requires backend)
+1. User logs in using Firebase Authentication  
+2. Courses are fetched from backend (Node.js + MongoDB)  
+3. User can:
+   - Access free courses  
+   - Purchase paid courses via Razorpay  
+4. Purchased courses are added to user's library  
+5. Notifications are sent using Firebase Cloud Messaging  
+6. AI assistant helps users with queries  
 
-### 🌍 Localization
-- Supports:
-    - English
-    - Tamil
-    - Hindi
-    - Telugu
-    - Malayalam
-    - Gujarati
-    - Kannada
-    - Spanish
-    - French
-    - Portuguese
-
----
+***
 
 ## 🏗 Tech Stack
 
-- **Frontend:** Flutter (Material 3)
-- **State Management:** Provider
-- **Backend:** Node.js (Private – Not Included)
-- **Database:** MongoDB (Private)
-- **Authentication:** Firebase Auth
-- **Storage:** Firebase Storage
-- **Notifications:** Firebase Messaging
-- **Payments:** Razorpay (Private Keys Removed)
-- **Video:** Chewie + Video Player
-- **Localization:** Flutter Intl
+- **Frontend:** Flutter (Material 3)  
+- **State Management:** Provider  
+- **Backend:** Node.js (Private)  
+- **Database:** MongoDB  
+- **Authentication:** Firebase Auth  
+- **Storage:** Firebase Storage  
+- **Notifications:** Firebase Messaging (FCM)  
+- **Payments:** Razorpay  
+- **Video Player:** Chewie + video_player  
+- **Localization:** Flutter Intl  
 
----
+***
 
-## ⚠️ Important (Public Version Notice)
+## ⚠️ Public Repository Notice
 
-This repository is a **public-safe version**.
+This is a **public-safe version** of the project.
 
-The following have been removed or replaced:
+The following are removed for security reasons:
 
-- ❌ Firebase production keys
-- ❌ Backend URLs
-- ❌ Razorpay live keys
-- ❌ FCM production endpoints
-- ❌ Private MongoDB APIs
-- ❌ SheetDB production endpoint
+- ❌ Firebase production keys  
+- ❌ Backend API URLs  
+- ❌ Razorpay live keys  
+- ❌ MongoDB connection details  
+- ❌ FCM server configuration  
 
-You must configure your own:
+You need to configure your own backend and services to run the full application.
 
-- Firebase project
-- Backend API
-- Razorpay keys
-- FCM server
-
----
+***
 
 ## 🛠 Setup Instructions
-
-### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/sirius.git
 cd sirius
+flutter pub get
+flutter run
+```
+
+***
+
+
+## 🚀 Future Improvements
+
+- 📊 Learning analytics dashboard  
+- 🧠 Personalized recommendations  
+- 🌐 Web support  
+- 🔥 Full AI integration (production mode)  
+
